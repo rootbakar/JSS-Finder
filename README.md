@@ -1,4 +1,4 @@
-# JSS-Finder (JS String Finder)
+# RB-JSS-Finder (JS String Finder)
 
 **JS String Finder** is a useful tool for searching specific strings in JavaScript files fetched from a list of URLs. This tool can assist security researchers, developers, and analysts in identifying potential issues or exploring strings present in JS files hosted on various URLs.
 
