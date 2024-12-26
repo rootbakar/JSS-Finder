@@ -13,6 +13,14 @@
 To run **JS String Finder**, make sure you have Python 3 installed along with the necessary dependencies. You can install them by running:
 
 ```bash
+git clone https://github.com/rootbakar/JSS-Finder.git
+```
+
+```bash
+cd JSS-Finder
+```
+
+```bash
 pip install requests beautifulsoup4 tqdm colorama pyfiglet --break-system-packages
 ```
 
