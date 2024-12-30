@@ -21,7 +21,13 @@ cd JSS-Finder
 ```
 
 ```bash
-pip install requests beautifulsoup4 tqdm colorama pyfiglet --break-system-packages
+python3 -m pip install requests beautifulsoup4 tqdm colorama pyfiglet --break-system-packages
+```
+
+or 
+
+```bash
+pip install requests beautifulsoup4 tqdm colorama pyfiglet
 ```
 
 # Usage
