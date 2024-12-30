@@ -59,18 +59,10 @@ or
 echo "https://subs.example.com" | jsfinder -read -s -o js-link.txt
 ```
 
-**Result:**
-
-<img width="1440" alt="Screenshot 2024-12-26 at 09 26 04" src="https://github.com/user-attachments/assets/ef725a6f-a1a9-47ae-89a8-ceacaaeaa672" />
-
 
 ```bash
 cat js-link.txt
 ```
-
-**Result:**
-
-<img width="788" alt="Screenshot 2024-12-26 at 09 22 57" src="https://github.com/user-attachments/assets/dd9d34a9-6e53-4d0d-b0c8-1a1d2cdac865" />
 
 
 `First you must installed the jsfinder tools` https://github.com/kacakb/jsfinder
@@ -80,10 +72,6 @@ cat js-link.txt
 ```bash
 python3 js-string-finder.py -l js-link.txt -s "Admin"
 ```
-
-**Result:**
-
-<img width="1439" alt="Screenshot 2024-12-26 at 09 18 19" src="https://github.com/user-attachments/assets/e567c118-a7ba-49ef-88e6-80e9bcf989df" />
 
 
 # Acknowledgement
