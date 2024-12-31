@@ -73,6 +73,13 @@ cat js-link.txt
 python3 js-string-finder.py -l js-link.txt -s "Admin"
 ```
 
+# Example: Convert BurpJSLinkFinder Result
+```bash
+python3 python3 convert.py
+```
+
+Before you run that command, first you must saved the BurpJSLinkFinder to file `list-js.txt`
+
 
 # Acknowledgement
 This tools inspired by [jsfinder](https://github.com/kacakb/jsfinder)
